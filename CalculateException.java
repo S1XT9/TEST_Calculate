@@ -1,0 +1,3 @@
+ class CalculateException extends Exception{
+
+}
